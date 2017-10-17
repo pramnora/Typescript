@@ -68,8 +68,7 @@ Typescript links...
 - https://www.typescriptlang.org/  
 - https://github.com/Microsoft/TypeScript  
 - https://www.npmjs.com/package/typescript  
-
-
+-- https://www.typescriptlang.org/play/  (practice doing Typescript coding online inside of your browser)      
 
 ### Videos...
 
