@@ -11,7 +11,7 @@ Typescript, is a 'superset' of Javascript; meaning it does everything that plain
 - any
 - /-etc.    
 
-This language is also frequently used with modern day Javascript frameworks; such as, Angular 4.  
+This language is also frequently used with many modern day Javascript frameworks including, Angular 4.  
 
 Basically, Typescript source code files [.ts] are, later on, translated/compiled into becoming plain vanilla [.js] files; the which plain [.js] file can then be linked to and used inside of HTML web pages.  
 
@@ -49,7 +49,7 @@ Hello, world! From Typescript
 
 Warmest congratulations, your computer can successfully compile Typescript files: [.ts] into becoming Javascript files: [.js]; and, you are now ready to 'practice' writing Typescript code.  
 
-NOTE: The line: console.log('Hello, world...'); is NOT actually Typescript code; but, instead, it's just plain vanilla Javascript; -(bear in mind, that Typescript can do anything that Javascript can do; but, not vice versa)- ; however, if this example does work; then, that proves you're [ts01.ts] file did compile successfully to become [ts01.js]; and, so, now, you're ready to 'start' learning Typescript.  
+**NOTE**: The line: console.log('Hello, world...'); is NOT actually Typescript code; but, instead, it's just plain vanilla Javascript; -(bear in mind, that Typescript can do anything that Javascript can do; but, not vice versa)- ; however, if this example does work; then, that proves your [ts01.ts] file did compile successfully to become [ts01.js]; and, so, now, you're ready to 'start' learning Typescript.  
 
 ## Links...
 
