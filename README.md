@@ -55,9 +55,21 @@ and,cd /change directory to where the 'new' folder called: Typescript, is locate
 
 Warmest congratulations, your computer can successfully compile Typescript files: [.ts] into becoming Javascript files: [.js]; and, you are now ready to 'practice' writing Typescript code.  
 
-**NOTE**: The line: console.log('Hello, world...'); is NOT actually Typescript code; but, instead, it's just plain vanilla Javascript; -(bear in mind, that Typescript can do anything that Javascript can do; but, not vice versa)- ; however, if this example does work; then, that proves your [ts01.ts] file did compile successfully to become [ts01.js]; and, so, now, you're ready to 'start' learning Typescript.  
+**NOTE**: The line:  
+
+> console.log('Hello, world...');  
+
+...is NOT actually Typescript code; but, instead, it's just plain vanilla Javascript; -(bear in mind, that Typescript can do anything that Javascript can do; but, not vice versa)- ; however, if this example does work; then, that proves your [ts01.ts] file did compile successfully to become [ts01.js]; and, so, now, you're ready to 'start' learning Typescript.  
 
 ## Links...
+
+Typescript links...  
+- https://en.wikipedia.org/wiki/TypeScript  
+- https://www.typescriptlang.org/  
+- https://github.com/Microsoft/TypeScript  
+- https://www.npmjs.com/package/typescript  
+
+
 
 ### Videos...
 
