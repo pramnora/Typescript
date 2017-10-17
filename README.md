@@ -5,10 +5,14 @@ My Typescript code
 
 Typescript, is a 'superset' of Javascript; meaning it does everything that plain vanilla Javascript can do, and, 'more'...with additional features having been added on; including such things as data type checking:  
 
-- string  (let varName: string;)  
-- number  (let varName: number;)  
-- boolean (let varName: boolean;)  
-- any     (let varname: any;)  
+- string  
+> let varName: string;  
+- number  
+> let varName: number;)  
+- boolean 
+> let varName: boolean;  
+- any     
+> let varname: any;  
 - /-etc.    
 
 This language is also frequently used with many modern day Javascript frameworks including, Angular 4.  
