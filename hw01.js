@@ -1,5 +1,5 @@
 var greetings;
 greetings = "Hello, world! from Typescript";
-function write() {
+function writeMsg() {
     document.write(greetings);
 }
