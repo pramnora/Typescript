@@ -43,15 +43,15 @@ b> ts01.ts
 
 4> Open up a DOS black screen CLI/Command Line Interface window...  
 and,cd /change directory to where the 'new' folder called: Typescript, is located on your system:  
-C:\Typescript>  
+> C:\Typescript>  
 ...next, type in after the DOS prompt: (>)...  
-C:\Typescript> tsc ts01.ts  
+> C:\Typescript> tsc ts01.ts  
 ...if everything has been set up to work, successfully; then, the file [ts01.ts] should get compiled into becoming [ts01.js]    
 
 **NOTE**: The term: 'tsc', is short for Typescript Compiler.  
 
 5> Left double click on the file called: [ts01.html] to open it for viewing inside of your web browser; and, press key [F12]...this opens up Google Chrome Console...which shows the [ts01.js] output to the console:  
-Hello, world! From Typescript  
+> Hello, world! From Typescript  
 
 Warmest congratulations, your computer can successfully compile Typescript files: [.ts] into becoming Javascript files: [.js]; and, you are now ready to 'practice' writing Typescript code.  
 
