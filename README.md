@@ -61,7 +61,7 @@ Warmest congratulations, your computer can successfully compile Typescript files
 
 ...is NOT actually Typescript code; but, instead, it's just plain vanilla Javascript; -(bear in mind, that Typescript can do anything that Javascript can do; but, not vice versa)- ; however, if this example does work; then, that proves your [ts01.ts] file did compile successfully to become [ts01.js]; and, so, now, you're ready to 'start' learning Typescript. 
 
-**NOTE**: You can avoid repeatedly having to save as: [filename.ts]/then, compile using: tsc filename.ts...; but using switch [-w] which will, automatically, watch/compile.   
+**NOTE**: You can avoid repeatedly having to save as: [filename.ts]/then, compile using: tsc filename.ts...; by using switch [-w] which will, automatically, watch/compile.   
 
 > tsc filename.ts -w  
 
@@ -79,5 +79,5 @@ Typescript links...
 ### Videos...
 
 TypeScript Crash Course - (Traversy Media)  
-https://www.youtube.com/watch?v=rAy_3SIqT-E&t=963s  
+- https://www.youtube.com/watch?v=rAy_3SIqT-E&t=963s  
 
