@@ -8,6 +8,7 @@ Typescript, is a 'superset' of Javascript; meaning it does everything that plain
 - string
 - number
 - boolean
+- any
 - /-etc.    
 
 This language is also frequently used with modern day Javascript frameworks; such as, Angular 4.  
