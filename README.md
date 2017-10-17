@@ -3,7 +3,12 @@ My Typescript code
 
 ## About
 
-Typescript, is a 'superset' of Javascript; meaning it does everything that plain vanilla Javascript can do, and, 'more'...with additional features having been added on; including such things as data type checking: string/number/boolean/any/-etc.  
+Typescript, is a 'superset' of Javascript; meaning it does everything that plain vanilla Javascript can do, and, 'more'...with additional features having been added on; including such things as data type checking:  
+
+- string
+- number
+- boolean
+- /-etc.    
 
 This language is also frequently used with modern day Javascript frameworks; such as, Angular 4.  
 
