@@ -55,6 +55,11 @@ and,cd /change directory to where the 'new' folder called: Typescript, is locate
 
 Warmest congratulations, your computer can successfully compile Typescript files: [.ts] into becoming Javascript files: [.js]; and, you are now ready to 'practice' writing Typescript code.  
 
+**NOTE**: In order to find which version of Typescript you are using...  
+
+> C:\Typescript> tsc --version  
+> Version 3.6.4    (...as of date: 221019)  
+
 **NOTE**: The line:  
 
 > console.log('Hello, world...');  
