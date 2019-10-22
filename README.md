@@ -82,5 +82,5 @@ TypeScript Crash Course - (Traversy Media)
 - https://www.youtube.com/watch?v=rAy_3SIqT-E&t=963s  
 
 TypeScript Tutorial for Angular and React Developers | Mosh  
-https://www.youtube.com/watch?v=NjN00cM18Z4  
+- https://www.youtube.com/watch?v=NjN00cM18Z4  
 
