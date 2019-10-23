@@ -70,7 +70,11 @@ Warmest congratulations, your computer can successfully compile Typescript files
 
 > tsc filename.ts -w  
 
-...also, remember to hit [CTRL]+[C] to cancel watching.  
+...it's possible to watch more than one typescript file: [.ts] all together at once, use...
+
+> tsc filename1.ts filename2.ts -w
+
+...also, remember to hit [CTRL]+[C] to whenever you wish to cancel watching.  
 
 ## Links...
 
